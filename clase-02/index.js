@@ -1,0 +1,1 @@
+/** Class to respresents a CarsManager. */

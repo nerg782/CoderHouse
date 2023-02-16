@@ -1,0 +1,17 @@
+{
+  "name": "clase-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "exponencial": "nodemon ./ejemplos/es7/exponencial.js",
+    "arrays": "nodemon ./ejemplos/es7/arrays.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
